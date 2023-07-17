@@ -13,5 +13,3 @@ POST /superapp/countries/save
 By adhering to these steps, you can confidently save your data to the database and seamlessly leverage additional server functionalities as needed.
 
 ---
-
-This revised version is designed to look beautiful in GitHub. It includes author attribution and formatted code block for the HTTP request.
